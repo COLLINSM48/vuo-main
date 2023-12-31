@@ -1,0 +1,13 @@
+.link-style {
+  text-decoration: none;
+  cursor: "pointer";
+  color: #fff;
+  transition: "color 0.3s";
+}
+.link-style :hover {
+  color: #e93e3a;
+}
+
+.link-style:active {
+  color: #e93e3a;
+}

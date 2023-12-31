@@ -1,0 +1,15 @@
+.nav-style {
+  font-size: 0.85rem;
+  font-weight: bold;
+  text-decoration: none;
+  cursor: pointer;
+  color: #000000;
+  transition: "color 0.3s";
+}
+.nav-style :hover {
+  color: #e93e3a;
+}
+
+.nav-style:active {
+  color: #e93e3a;
+}

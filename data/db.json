@@ -1,0 +1,54 @@
+{
+  "projects": [
+    {
+      "id": 2,
+      "projectName": "school System",
+      "amountDonated": 8000,
+      "amountRemaining": 12000,
+      "projectImage": "/child.jpg",
+      "projectLocation": "Mansa-chipili, Zambia"
+    },
+    {
+      "id": 1,
+      "projectName": "Build 100 Boreholes Project",
+      "amountDonated": 5000,
+      "amountRemaining": 15000,
+      "projectImage": "./water.png",
+      "projectLocation": "mkushi, Zambia"
+    },
+    {
+      "id": 3,
+      "projectName": "sanitation",
+      "amountDonated": 8000,
+      "amountRemaining": 12000,
+      "projectImage": "/sectors.png",
+      "projectLocation": "serenje, Zambia"
+    },
+    {
+      "id": 4,
+      "projectName": "Build 100 Boreholes Project",
+      "amountDonated": 5000,
+      "amountRemaining": 15000,
+      "projectImage": "./water.png",
+      "projectLocation": "mkushi, Zambia"
+    },
+    
+    {
+      "id": 6,
+      "projectName": "sanitation",
+      "amountDonated": 8000,
+      "amountRemaining": 12000,
+      "projectImage": "/sectors.png",
+      "projectLocation": "serenje, Zambia"
+    },
+    {
+      "id": 5,
+      "projectName": "school System",
+      "amountDonated": 8000,
+      "amountRemaining": 12000,
+      "projectImage": "/child.jpg",
+      "projectLocation": "Mansa-chipili, Zambia"
+    }
+
+  ]
+}
